@@ -1,0 +1,12 @@
+{
+    "name": "academicloud/mywevsql",
+    "description": "mySQL Admin",
+    "authors": [
+        {
+            "name": "eddrems",
+            "email": "edisson.mendieta@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
